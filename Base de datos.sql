@@ -1,0 +1,1 @@
+SELECT * FROM Empleados WHERE id_empleado = "234"
